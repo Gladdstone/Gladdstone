@@ -28,7 +28,6 @@ Hi, I'm Joe (he/him) - software engineer and technical lead for a developing sta
 ### :mailbox: Want to reach out?
 
 
-![joefarrell.dev](https://img.shields.io/website?down_message=down&style=plastic&up_message=joefarrell.dev&url=https%3A%2F%2Fjoefarrell.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pithpifth?style=social)](https://twitter.com/Pithpifth)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/jdfarrell/)
 
