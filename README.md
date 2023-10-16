@@ -9,18 +9,18 @@
                                         / 　 づ
 </pre>
 
-Hi, I'm Joe (he/him) - software engineer specialising in SaaS applications and cloud automation. In my free time, I like playing card games and I'm a concert flautist. I'm an engineer of many interests and a variety of skills. I've defeated the mighty Node beast, tussled with the Webpack hydra, and crossed the great Dotnet ocean. All to return to my one true love - Python - who awaits my return on the glistening shores of Ithaca.
+Hi, I'm Joe (he/him) - software engineer specialising in cloud development and distributed systems. In my free time, I like playing card games and am a concert flautist. I'm an engineer of many interests and a variety of skills. I've defeated the mighty Node beast, tussled with the Webpack hydra, and crossed the great Dotnet ocean. All to return to my one true love - Python - who awaits my return on the glistening shores of Ithaca.
 
 
 ## Areas of Interest :sparkles:
 
 * Cloud computing
 * Distributed systems
-* Web application development
+* Accessibility and user experience
 
-### Currently Learning
+### Current Projects
 
-* Deep Learning
+* iOS/Swift
 
     :shipit:
     
